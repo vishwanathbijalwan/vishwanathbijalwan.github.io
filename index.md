@@ -1,11 +1,15 @@
 ---
 layout: home
 title: "Dr. Vishwanath Bijalwan"
-subtitle: "AI | Robotics | Biomedical Signal Processing"
+excerpt: "AI | Robotics | Biomedical Signal Processing"
 ---
 
-Welcome to my academic homepage. I'm a DAAD AI-NET Fellow, Assistant Professor at SR University, and former Postdoctoral Researcher in Robotics at HBNU, South Korea.
+Welcome to my academic website. I am an Assistant Professor at SR University, India, a DAAD AI-NET Fellow, and former Postdoctoral Researcher at Hanbat National University, South Korea.
 
-> **Research Interests:** Artificial Intelligence, Deep Learning, Human Gait, Signal Processing, Robotics, Soft Actuators.
+### Research Interests:
+- Artificial Intelligence & Deep Learning
+- Human Gait & Biomedical Signals (EEG, ECG)
+- Soft Robotics and SMA Actuators
+- Federated Learning and Explainable AI
 
-Explore my [About](about.md), [Research](research.md), [Publications](publications.md), and [Talks](talks.md) pages to know more.
+📄 [Download CV](cv.md) | [Google Scholar](https://scholar.google.com/citations?user=9hp9lw0AAAAJ&hl=en)

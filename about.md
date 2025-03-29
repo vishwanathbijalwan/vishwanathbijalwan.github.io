@@ -1,19 +1,21 @@
 ---
 layout: page
 title: "About Me"
+permalink: /about/
 ---
 
-I am Dr. Vishwanath Bijalwan, currently an Assistant Professor at SR University, India. I have over 10 years of teaching and research experience, including a postdoc at Hanbat National University, South Korea. I specialize in:
+I am Dr. Vishwanath Bijalwan, Assistant Professor at SR University, India. I completed my Postdoctoral Research Fellowship at the Intelligent Control and Robotics Lab (ICRS), Hanbat National University, South Korea. My research is focused on:
 
-- Artificial Intelligence & Deep Learning  
-- Robotics & Soft SMA Actuators  
-- Biomedical Signal Processing  
-- Human Gait & Human Activity Recognition
+- Human Gait Dynamics & Rehabilitation
+- Soft Robotics and SMA-based actuators
+- Biomedical Signal Processing (EEG/ECG)
+- Federated Learning, Explainable AI
 
-**Education:**  
-- Ph.D., ICFAI University – Gait-based pattern analysis and robotics  
-- M.Tech., UTU – Digital Communication  
-- B.Tech., GBTU – Electronics & Communication Engineering
+**Education**:
+- Ph.D. in ECE – ICFAI University (Gait Analysis and Bipedal Robotics)
+- M.Tech. in Digital Communication – UTU
+- B.Tech. in ECE – GBTU
 
-**Fellowship:** DAAD Postdoc-NeT-AI 2024  
-**Languages:** English, Hindi
+**Fellowship**: DAAD AI-NET Fellow (Germany), April 2024  
+**Publications**: 60+ (23 SCI-indexed)  
+**Reviewer/Editor**: IEEE Sensors, Expert Systems, Robotica, MDPI, and more.
