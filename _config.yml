@@ -8,7 +8,7 @@ baseurl: ""
 author:
   name: "Dr. Vishwanath Bijalwan"
   avatar: "/assets/images/profile.jpg"
-  email: vishwanathbijalwan@ieee.org
+  email: "vishwanathbijalwan@ieee.org"
   links:
     - label: "Google Scholar"
       url: "https://scholar.google.com/citations?user=9hp9lw0AAAAJ&hl=en"
