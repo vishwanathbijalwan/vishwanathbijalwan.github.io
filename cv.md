@@ -1,11 +1,14 @@
 ---
 layout: page
 title: "Curriculum Vitae"
+permalink: /cv/
 ---
 
-Download my latest CV here: [Dr. Vishwanath Bijalwan - CV (PDF)](CV_Vishwanath_Acadamia_India.pdf)
+📄 [Download My Full CV (PDF)](CV_Vishwanath_Acadamia_India.pdf)
 
-You can also explore:
-- [About Me](about.md)
-- [Research](research.md)
-- [Publications](publications.md)
+Key Highlights:
+- 60+ Publications (23 SCI Indexed)
+- 2 Patents (1 German, 1 Indian)
+- Guided 4+ Ph.D. Scholars
+- Reviewed for IEEE, ACM, Wiley, MDPI journals
+- Experience with Robotics, Deep Learning, Signal Processing

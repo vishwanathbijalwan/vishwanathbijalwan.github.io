@@ -1,15 +1,22 @@
 ---
 layout: page
-title: "Research"
+title: "Research Projects"
+permalink: /research/
 ---
 
-### Research Areas
-- Human Gait Dynamics and Rehabilitation
-- Soft Robotics and SMA Actuators
-- Physiological Signal Processing (EEG, ECG)
-- Federated Learning and Explainable AI in Healthcare
+### 🔬 Current & Recent Projects
 
-### Recent Projects
-- Real-Time Neuroadaptive Rehabilitation System (ECG ANRF, Applied)
-- AI Enabled Gait Disorder Detection using Wearable SMA Prosthetics
-- Explainable AI for Digital Breast Tomosynthesis
+1. **AI Enabled Gait Disorder Detection Using SMA Prosthetics**  
+   - PI: Dr. Vishwanath Bijalwan (SERB SURE, 30 Lakh INR, Applied)
+
+2. **Real-Time Neuroadaptive Rehab System for Gait/Posture Correction**  
+   - ECG ANRF Grant (Applied)
+
+3. **Explainable AI in Breast Tomosynthesis Image Classification**  
+   - ASEAN-India Collaborative R&D, 30 Lakh INR (Applied)
+
+4. **Gait Recognition & Push Recovery in Bipedal Locomotion**  
+   - TEQIP-III, Completed, 2 Lakh INR
+
+5. **Wireless Energy Harvesting Device for ITS**  
+   - TEQIP-III, Completed, 2 Lakh INR

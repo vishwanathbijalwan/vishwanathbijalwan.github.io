@@ -1,31 +1,20 @@
 title: "Dr. Vishwanath Bijalwan"
-email: "vishwanathbijalwan@ieee.org"
-description: >- 
-  Assistant Professor | DAAD AI-NET Fellow | AI, Robotics, Biomedical Signal Processing
-baseurl: ""
-url: "https://vishwanathbijalwan.github.io"
-github_username: vishwanathbijalwan
-
+description: "AI | Robotics | Biomedical Signal Processing"
+theme: minima
 markdown: kramdown
-theme: minimal-mistakes-jekyll
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
+url: "https://vishwanathbijalwan.github.io"
+baseurl: ""
 
-# Social
 author:
   name: "Dr. Vishwanath Bijalwan"
   avatar: "/assets/images/profile.jpg"
-  bio: "AI | Robotics | Signal Processing"
+  email: vishwanathbijalwan@ieee.org
   links:
     - label: "Google Scholar"
       url: "https://scholar.google.com/citations?user=9hp9lw0AAAAJ&hl=en"
     - label: "LinkedIn"
       url: "https://www.linkedin.com/in/dr-vishwanath-bijalwan-0a692236/"
-    - label: "ResearchGate"
-      url: "https://www.researchgate.net/profile/Vishwanath-Bijalwan"
     - label: "ORCID"
       url: "https://orcid.org/0000-0002-8661-5430"
-    - label: "GitHub"
-      url: "https://github.com/vishwanathbijalwan"
+    - label: "ResearchGate"
+      url: "https://www.researchgate.net/profile/Vishwanath-Bijalwan"
